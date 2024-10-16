@@ -1,1 +1,1 @@
-# DBMS-CTA-Minor-
+# DBMS-CTA(Minor)
